@@ -1,0 +1,12 @@
+D:\Projects\WindowsApp\KSEB_Bills\KSEB_Bills\bin\Debug\KSEB_Bills.exe
+D:\Projects\WindowsApp\KSEB_Bills\KSEB_Bills\bin\Debug\KSEB_Bills.pdb
+D:\Projects\WindowsApp\KSEB_Bills\KSEB_Bills\bin\Debug\itextsharp.dll
+D:\Projects\WindowsApp\KSEB_Bills\KSEB_Bills\bin\Debug\itextsharp.xml
+D:\Projects\WindowsApp\KSEB_Bills\KSEB_Bills\obj\Debug\KSEB_Bills.csprojAssemblyReference.cache
+D:\Projects\WindowsApp\KSEB_Bills\KSEB_Bills\obj\Debug\KSEB_Bills.Form1.resources
+D:\Projects\WindowsApp\KSEB_Bills\KSEB_Bills\obj\Debug\KSEB_Bills.Properties.Resources.resources
+D:\Projects\WindowsApp\KSEB_Bills\KSEB_Bills\obj\Debug\KSEB_Bills.csproj.GenerateResource.cache
+D:\Projects\WindowsApp\KSEB_Bills\KSEB_Bills\obj\Debug\KSEB_Bills.csproj.CoreCompileInputs.cache
+D:\Projects\WindowsApp\KSEB_Bills\KSEB_Bills\obj\Debug\KSEB_Bills.csproj.CopyComplete
+D:\Projects\WindowsApp\KSEB_Bills\KSEB_Bills\obj\Debug\KSEB_Bills.exe
+D:\Projects\WindowsApp\KSEB_Bills\KSEB_Bills\obj\Debug\KSEB_Bills.pdb
